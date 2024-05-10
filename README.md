@@ -6,7 +6,7 @@ The Stock Price Prediction System seamlessly integrates data retrieval, predicti
 
 ## Demo
 
-https://drive.google.com/file/d/1zSPPqp0t_w8Xwk8UWZfmv9ZZwpflc2NY/view?usp=sharing
+![githubGIF](https://github.com/vivek-bht/stock_pred/assets/85435571/4e91388e-44f7-4bd9-bce1-d98a272df479)
 
 
 ## Installation
